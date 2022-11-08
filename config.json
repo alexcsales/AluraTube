@@ -1,0 +1,96 @@
+{
+    "name": " Alex ",
+    "description": " Desenvolvedor front-end ",
+    "github": "alexcsales",
+    "playlists": {
+        "programação": [
+            {
+                "title": "O QUE É GIT E GITHUB? - definição e conceitos importantes 1/2",
+                "url": "https://www.youtube.com/watch?v=DqTITcMq68k",
+                "thumb": "https://img.youtube.com/vi/DqTITcMq68k/hqdefault.jpg"
+            },
+            {
+                "title": "Como Fazer Uma API (o jeito mais fácil e moderno que eu já vi)",
+                "url": "https://www.youtube.com/watch?v=f7JWDLFhR_c",
+                "thumb": "https://img.youtube.com/vi/f7JWDLFhR_c/hqdefault.jpg"
+            },
+            {
+                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+            },
+            {
+                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            },
+            {
+                "title": "Como Foi Programado um App Que Faz Mágica",
+                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "5 Erros Históricos do CSS",
+                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+                "thumb": "https://img.youtube.com/vi/cTJY-z3TbTw/hqdefault.jpg"
+            }
+        ],
+        "Psicologia": [
+            {
+                "title": "MEGUMI e a AUTOSSABOTAGEM | Psicologia Jujutsu Kaisen",
+                "url": "https://youtube.com/watch?v=Qco3BnR2MRM",
+                "thumb": "https://img.youtube.com/vi/Qco3BnR2MRM/hqdefault.jpg"
+            },
+            {
+                "title": "COMO PETS AFETAM NOSSAS MENTES?",
+                "url": "https://www.youtube.com/watch?v=X2wqwHlZEyA",
+                "thumb": "https://img.youtube.com/vi/X2wqwHlZEyA/hqdefault.jpg"
+            },
+            {
+                "title": "NEUROCIÊNCIA E COMUNICAÇÃO NÃO-VIOLENTA | Diálogo com Flavia Feitosa e Claudia Feitosa-Santana",
+                "url": "https://www.youtube.com/watch?v=CmE1vUS-Tk4",
+                "thumb": "https://img.youtube.com/vi/CmE1vUS-Tk4/hqdefault.jpg"
+            },
+            {
+                "title": "8 TÉCNICAS DE CONTROLE EMOCIONAL QUE MUITOS USAM",
+                "url": "https://www.youtube.com/watch?v=AwxYSQGT734",
+                "thumb": "https://img.youtube.com/vi/AwxYSQGT734/hqdefault.jpg"
+            },
+            {
+                "title": "JEAN KIRSTEIN e o DILEMA da ZONA DE CONFORTO | Psicologia Shingeki no Kyojin",
+                "url": "https://www.youtube.com/watch?v=040pmo-0RDY",
+                "thumb": "https://img.youtube.com/vi/040pmo-0RDY/hqdefault.jpg"
+            },
+            {
+                "title": "VOCÊ DEVE TRABALHAR COM O QUE AMA?",
+                "url": "https://www.youtube.com/watch?v=-Hb51uBCmYo",
+                "thumb": "https://img.youtube.com/vi/-Hb51uBCmYo/hqdefault.jpg"
+            },
+            {
+                "title": "COMO APRENDER A ESCUTAR O OUTRO? | CHRISTIAN DUNKER",
+                "url": "https://www.youtube.com/watch?v=Zo-jk4kVtE8",
+                "thumb": "https://img.youtube.com/vi/Zo-jk4kVtE8/hqdefault.jpg"
+            },
+            {
+                "title": "A PSICOLOGIA DA ATENÇÃO",
+                "url": "https://www.youtube.com/watch?v=WhL4ntndnrs",
+                "thumb": "https://img.youtube.com/vi/WhL4ntndnrs/hqdefault.jpg"
+            },
+            {
+                "title": "TAMAKI AMAJIKI e o medo do JULGAMENTO | Psicologia Boku no Hero",
+                "url": "https://www.youtube.com/watch?v=mHN2Mprtcp4",
+                "thumb": "https://img.youtube.com/vi/mHN2Mprtcp4/hqdefault.jpg"
+            }
+        ]
+    }
+}
