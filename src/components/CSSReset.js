@@ -33,6 +33,7 @@ export const CSSReset = createGlobalStyle`
     &:hover,
     &:focus {
       opacity: .5;
+      border-radius: 0 40px 40px 0;
     }
   }
 `;
