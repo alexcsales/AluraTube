@@ -26,12 +26,12 @@
  ```bash
  # Clonar este repositório:
  $ git clonehttps:https://github.com/alexcsales/AluraTube
- # Instalar dependencias:
+ # Precione Ctrl + J e execute os seguites comandos:
  $ npm install next react react-dom
  $ npm i styled-components
  $ npm install @supabase/supabase-js
  # Executar projeto:
- $ precione Ctrl + J para abrir o terminal,  e execute "npm run dev".
+ $  Abra o terminal e execute npm run dev.
  ```
     
  ### 🛠 Tecnologias
@@ -43,4 +43,4 @@
    - Supabase
     <hr>
     
-  <p>De ALEX🤘 <a href='https://www.linkedin.com/in/alexsales-dev/'>Veja meu linkedin<a></p>
+  <p>De ALEX🤘 Veja meu<a href='https://www.linkedin.com/in/alexsales-dev/'> linkedin<a></p>
