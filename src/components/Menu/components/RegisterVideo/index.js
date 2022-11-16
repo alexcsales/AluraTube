@@ -32,43 +32,25 @@ function getThumbnail(url) {
     return `https://img.youtube.com/vi/${url.split("v=")[1]}/hqdefault.jpg`;
 }
 
-// function getVideoId(url) {
-//     const videoId = url.split("v=")[1];
-//     const ampersandPosition = videoId.indexOf("&");
-//     if (ampersandPosition !== -1) {
-//         return videoId.substring(0, ampersandPosition);
-//     }
-//     return videoId;
-// }
-
 export default function RegisterVideo() {
     const formCadastro = useForm({
         initialValues: { titulo: "", url: "" }
     });
 
     const [formVisivel, setFormVisivel] = React.useState(false);
-    /*
-    ## O que precisamos para o form funcionar?
-    - pegar os dados, que precisam vir do state
-        - titulo
-        - url do vídeo 
-    - precisamos ter um onSubmit do nosso form
-    - Limpar o formulário após o Submit
-    */
+    
     return (
         <StyledRegisterVideo>
             <button className="add-video" onClick={() => setFormVisivel(true)}>
                 +
             </button>
-            {/* Ternário */}
-            {/* Operadores de Curto-circuito */}
+            
             {formVisivel
                 ? (
                     <form onSubmit={(evento) => {
                         evento.preventDefault();
                         console.log(formCadastro.values);
 
-                        // Contrato entre o nosso Front e o BackEnd
                         supabase.from("video").insert({
                             title: formCadastro.values.titulo,
                             url: formCadastro.values.url,
@@ -111,7 +93,3 @@ export default function RegisterVideo() {
         </StyledRegisterVideo>
     )
 }
-// [X] Falta o botão para adicionar
-// [X] Modal
-// -> [X] Precisamos controlar o state
-// -> Formulário em si

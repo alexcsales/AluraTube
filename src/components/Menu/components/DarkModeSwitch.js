@@ -4,9 +4,10 @@ import { ColorModeContext } from "./ColorMode";
 
 const StyledSwitch = styled.div`
   background-color: #333333;
+  color: #fafafa;
   border: 0;
   padding: 3px;
-  font-size: 12px;
+  font-size: 17px;
   width: 50px;
   height: 25px;
   display: flex;
@@ -22,8 +23,8 @@ const StyledSwitch = styled.div`
     content: "";
     background-color: #fafafa;
     border: 1px solid #333333;
-    width: 24px;
-    height: 24px;
+    width: 23px;
+    height: 23px;
     border-radius: 100%;
     position: absolute;
     top: 0;
@@ -48,8 +49,8 @@ export default function DarkModeSwitch() {
                 htmlFor="darkmode"
                 className="darkmode-switch"
             >
-                <span>🌙</span>
-                <span>☀️</span>
+                <span>☽</span>
+                <span>☼</span>
             </label>
         </StyledSwitch>
     )

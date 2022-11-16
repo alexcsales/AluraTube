@@ -67,8 +67,8 @@ const StyledHeader = styled.div`
   `;
 
 const StyledBanner = styled.div`
-background-image: url(${({ bg }) => bg});  
-height: 230px;
+background-image: url(${({ bg }) => bg});
+height: 250px;
   `;
 
 function Header() {
