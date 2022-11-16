@@ -29,6 +29,7 @@
  # Precione Ctrl + J e execute os seguites comandos:
  $ npm install next react react-dom
  $ npm i styled-components
+ $ npm install react-icons --save
  $ npm install @supabase/supabase-js
  # Executar projeto:
  $  Abra o terminal e execute npm run dev.
