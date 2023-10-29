@@ -3,7 +3,7 @@
 
 <h3 align='center'>📚Projeto de clone do YouTube usando Next realizado na Imersão React da @alura.</h3>
 
-<h4 align='center'>🚧README🚧</h4>
+<h3 id="status" align='center'>✅ STATUS: Projeto concluído✅</h3>
   
 ### ⚙ Features
 - [x] Interface<br>
